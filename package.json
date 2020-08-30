@@ -1,0 +1,12 @@
+{
+  "name": "lwp-npm-study",
+  "version": "1.0.0",
+  "description": "玩一下npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint"
+  },
+  "keywords": [],
+  "author": "lwp",
+  "license": "MIT"
+}
